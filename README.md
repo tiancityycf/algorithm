@@ -8,3 +8,6 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/shellSort.php" target="_blank" >希尔排序</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/mergeSort.php" target="_blank" >归并排序</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/heapSort.php" target="_blank" >堆排序</a></br>
+</br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/echoprint.php" target="_blank" >echoprint优先级问题</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/data.php" target="_blank" >链表、栈、队列模拟</a></br>
