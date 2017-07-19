@@ -12,3 +12,4 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/echoprint.php" target="_blank" >echoprint优先级问题</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/hashTable.php" target="_blank" >哈希表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/data.php" target="_blank" >链表、栈、队列模拟</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/splFixedArray.php" target="_blank" >splFixedArray</a></br>
