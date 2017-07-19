@@ -80,7 +80,7 @@ class hashTable
         $length = count($this->collection);  
         for($i=0; $i<$length; $i++) {  
             if($this->collection[$i]) {  
-                echo $this->collection[$i]."<br />";  
+                echo $this->collection[$i].PHP_EOL;  
             }  
         }  
     }  
@@ -164,6 +164,6 @@ $list->set("two", "second test");
 $list->set("three", "three test");  
 $list->set("four", "fouth test");  
 echo $list->val();  
-echo "after sorted : <br />";  
+echo "after sorted : ".PHP_EOL;  
 $list->rev(3);  
 ?>
