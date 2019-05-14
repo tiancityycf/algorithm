@@ -71,5 +71,6 @@ foreach($doubly as $key=>$value)
     echo $key.' '.$value.PHP_EOL;  
 }  
 echo 'Delete模式迭代之后的链表：'.PHP_EOL;  
-var_dump($doubly);  
+var_dump($doubly);
+
 ?>

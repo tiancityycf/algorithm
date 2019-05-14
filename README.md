@@ -13,7 +13,13 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/hashTable.php" target="_blank" >哈希表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/linkList.php" target="_blank" >单链表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/splDoublyLinkedList.php" target="_blank" >双向链表splDoublyLinkedList</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/doublyLinkedList.php" target="_blank" >双向链表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/splFixedArray.php" target="_blank" >splFixedArray</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/stack.php" target="_blank" >栈模拟</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/queue.php" target="_blank" >队列模拟</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/josephRing.php" target="_blank" >约瑟夫环问题</a></br>
+
+<a href="https://github.com/tiancityycf/algorithm/blob/master/seq_sch.php" target="_blank" >顺序查找</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/bin_sch.php" target="_blank" >二分查找</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/wash_card.php" target="_blank" >公平的洗牌算法</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/ac.php" target="_blank" >排列组合</a></br>
