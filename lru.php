@@ -191,8 +191,14 @@ class Node {
 //Example
 $cache = new LRUCache(10);
 
-$cache->put('mykey', 'arrow to the knee');
+$cache->put('k1', 'v1');
+$cache->put('k2', 'v2');
+$cache->put('k3', 'v3');
+$cache->put('k4', 'v4');
 
-echo $cache->get('mykey');
+print_r($cache->all());
 
+$cache->get('k1');
+print_r($cache->all());
+$cache->get('k3');
 print_r($cache->all());
