@@ -23,3 +23,4 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/bin_sch.php" target="_blank" >二分查找</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/wash_card.php" target="_blank" >公平的洗牌算法</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/ac.php" target="_blank" >排列组合</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/lru.php" target="_blank" >LRU算法</a></br>
