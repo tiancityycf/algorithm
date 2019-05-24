@@ -5,7 +5,7 @@
  * using an associative array as a naive hashmap, and a doubly linked list
  * to control the access and insertion order.
  *
- * @author Rogério Vicente
+ * @author chiefyang
  * @license MIT (see the LICENSE file for details)
  */
 class LRUCache {
@@ -102,6 +102,15 @@ class LRUCache {
         $node->getPrevious()->setNext($node->getNext());
         $node->getNext()->setPrevious($node->getPrevious());
     }
+
+    /**
+     * return the hashmap
+     * @param Node $node the node to remove from the list
+     */
+    public function all() {
+        return $this->hashmap;
+    }
+
 }
 /**
  * Class that represents a node in a doubly linked list
@@ -185,3 +194,5 @@ $cache = new LRUCache(10);
 $cache->put('mykey', 'arrow to the knee');
 
 echo $cache->get('mykey');
+
+print_r($cache->all());
