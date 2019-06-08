@@ -19,6 +19,7 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/queue.php" target="_blank" >队列模拟</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/josephRing.php" target="_blank" >约瑟夫环问题</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/fbnq.php" target="_blank" >斐波那契数列</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/theory/HuffmanTree.md" target="_blank" >哈夫曼树</a></br>
 
 <a href="https://github.com/tiancityycf/algorithm/blob/master/seq_sch.php" target="_blank" >顺序查找</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/bin_sch.php" target="_blank" >二分查找</a></br>
