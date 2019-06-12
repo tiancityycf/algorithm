@@ -17,7 +17,8 @@
 ### 桶排序
 <a href="https://github.com/tiancityycf/algorithm/blob/master/radixSort.php" target="_blank" >基数排序</a></br>
 </br>
-
+<a href="https://github.com/tiancityycf/algorithm/blob/master/countSort.php" target="_blank" >计数排序</a></br>
+</br>
 ### 排序算法对比
 <a href="https://github.com/tiancityycf/algorithm/blob/master/theory/sort.md" target="_blank" >排序算法对比</a></br>
 </br>
