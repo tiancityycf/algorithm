@@ -25,23 +25,30 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/theory/sort.md" target="_blank" >排序算法对比</a></br>
 </br>
 
-<a href="https://github.com/tiancityycf/algorithm/blob/master/echoprint.php" target="_blank" >echoprint优先级问题</a></br>
-<a href="https://github.com/tiancityycf/algorithm/blob/master/hashTable.php" target="_blank" >哈希表</a></br>
+### 链表相关
 <a href="https://github.com/tiancityycf/algorithm/blob/master/linkList.php" target="_blank" >单链表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/splDoublyLinkedList.php" target="_blank" >双向链表splDoublyLinkedList</a></br>
-<a href="https://github.com/tiancityycf/algorithm/blob/master/doublyLinkedList.php" target="_blank" >双向链表</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/doublyLinkedList.php" target="_blank" >双向链表</a>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/linkedcycle.php" target="_blank" >判断链表是否有环</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/theory/linkedCycle.md" target="_blank" >链表相关原理</a></br>
+
+### 递归相关
+<a href="https://github.com/tiancityycf/algorithm/blob/master/fbnq.php" target="_blank" >斐波那契数列</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/hanoi.php" target="_blank" >汉诺塔问题</a></br>
+
+
+<a href="https://github.com/tiancityycf/algorithm/blob/master/echoprint.php" target="_blank" >echoprint优先级问题</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/hashTable.php" target="_blank" >哈希表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/splFixedArray.php" target="_blank" >splFixedArray</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/stack.php" target="_blank" >栈模拟</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/queue.php" target="_blank" >队列模拟</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/josephRing.php" target="_blank" >约瑟夫环问题</a></br>
-<a href="https://github.com/tiancityycf/algorithm/blob/master/fbnq.php" target="_blank" >斐波那契数列</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/theory/HuffmanTree.md" target="_blank" >哈夫曼树</a></br>
+
 
 <a href="https://github.com/tiancityycf/algorithm/blob/master/seq_sch.php" target="_blank" >顺序查找</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/bin_sch.php" target="_blank" >二分查找</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/wash_card.php" target="_blank" >公平的洗牌算法</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/ac.php" target="_blank" >排列组合</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/lru.php" target="_blank" >LRU算法</a></br>
-<a href="https://github.com/tiancityycf/algorithm/blob/master/linkedcycle.php" target="_blank" >判断链表是否有环</a></br>
-<a href="https://github.com/tiancityycf/algorithm/blob/master/theory/linkedCycle.md" target="_blank" >链表相关原理</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/niu.php" target="_blank" >母牛生崽算法</a></br>
