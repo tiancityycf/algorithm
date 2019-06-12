@@ -15,6 +15,7 @@
  *     2, 4, 4, 6, 8, 9
  *
  * 很明显,计数排序的复杂度为O(n) + O(k),也就是和数据量和数据范围有关.
+ * 计数排序只适用于整数在小范围内排序
  * 若n和k相近,则可认为是O(n)
  * 同时,因为要统计出现次数,如果数据范围过大而数据又很稀疏,造成的空间浪费比较大
  */
@@ -34,6 +35,7 @@ class CountSort
         $this->resultData = $this->generateResult();
         return $this->resultData;
     }
+    //获取序列中的最小值min和最大值max O(n)
     protected function calculateDataRange()
     {
         $max = null;
@@ -56,6 +58,7 @@ class CountSort
         }
         return [$min, $max];
     }
+    //统计min - max之间所有值在序列中的出现次数 O(n)
     protected function statisticNumberOfOccurrence($min, $max)
     {
         for ($i = $min; $i <= $max; $i++) {
@@ -65,6 +68,7 @@ class CountSort
             $this->rangeMap[$value]++;
         }
     }
+    //顺序输出min - max的所有值,次数为0不输出,其余次数为多少就输出多少 O(k) k为数据范围
     protected function generateResult()
     {
         $result = [];
