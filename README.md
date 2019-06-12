@@ -50,3 +50,7 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/ac.php" target="_blank" >排列组合</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/lru.php" target="_blank" >LRU算法</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/niu.php" target="_blank" >母牛生崽算法</a></br>
+
+### 设计模式
+<a href="https://github.com/tiancityycf/algorithm/blob/master/singleton.php" target="_blank" >单例模式</a></br>
+
