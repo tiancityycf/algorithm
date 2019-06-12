@@ -10,15 +10,14 @@
 ### 选择排序
 <a href="https://github.com/tiancityycf/algorithm/blob/master/selectSort.php" target="_blank" >选择排序</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/heapSort.php" target="_blank" >堆排序</a></br>
+
 ### 归并排序
 <a href="https://github.com/tiancityycf/algorithm/blob/master/mergeSort.php" target="_blank" >归并排序</a></br>
 </br>
 
 ### 非比较排序-桶排序
 <a href="https://github.com/tiancityycf/algorithm/blob/master/radixSort.php" target="_blank" >基数排序</a></br>
-</br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/countSort.php" target="_blank" >计数排序</a></br>
-</br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/bucketSort.php" target="_blank" >桶排序</a></br>
 </br>
 ### 排序算法对比
@@ -36,7 +35,6 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/fbnq.php" target="_blank" >斐波那契数列</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/hanoi.php" target="_blank" >汉诺塔问题</a></br>
 
-
 <a href="https://github.com/tiancityycf/algorithm/blob/master/echoprint.php" target="_blank" >echoprint优先级问题</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/hashTable.php" target="_blank" >哈希表</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/splFixedArray.php" target="_blank" >splFixedArray</a></br>
@@ -44,7 +42,6 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/queue.php" target="_blank" >队列模拟</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/josephRing.php" target="_blank" >约瑟夫环问题</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/theory/HuffmanTree.md" target="_blank" >哈夫曼树</a></br>
-
 
 <a href="https://github.com/tiancityycf/algorithm/blob/master/seq_sch.php" target="_blank" >顺序查找</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/bin_sch.php" target="_blank" >二分查找</a></br>
