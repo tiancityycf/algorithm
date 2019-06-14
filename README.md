@@ -51,6 +51,9 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/lru.php" target="_blank" >LRU算法</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/niu.php" target="_blank" >母牛生崽算法</a></br>
 
+### GOLANG实现
+<a href="https://github.com/tiancityycf/algorithm/blob/master/go/lengthOfLIS.go" target="_blank" >最长上升子序列</a></br>
+
 ### 设计模式
 <a href="https://github.com/tiancityycf/algorithm/blob/master/singleton.php" target="_blank" >单例模式</a></br>
 
