@@ -55,5 +55,5 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/go/lengthOfLIS.go" target="_blank" >最长上升子序列</a></br>
 
 ### 设计模式
-<a href="https://github.com/tiancityycf/algorithm/blob/master/singleton.php" target="_blank" >单例模式</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/design/singleton.php" target="_blank" >单例模式</a></br>
 
