@@ -49,7 +49,7 @@ class ObServer1 implements ObServer
 }
 
 /**
- * 观察者2
+ * 观察者1
  */
 class ObServer2 implements ObServer
 {
