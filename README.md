@@ -60,5 +60,6 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/factoryMethod.php" target="_blank" >工厂方法模式</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/observer.php" target="_blank" >观察者模式</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/adapter.php" target="_blank" >适配器模式</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/design/strategy.php" target="_blank" >策略模式</a></br>
 
 
