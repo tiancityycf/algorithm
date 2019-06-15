@@ -56,4 +56,6 @@
 
 ### 设计模式
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/singleton.php" target="_blank" >单例模式</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/design/simpleFactory.php" target="_blank" >简单工厂模式</a></br>
+
 
