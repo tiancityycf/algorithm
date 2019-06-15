@@ -62,5 +62,7 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/adapter.php" target="_blank" >适配器模式</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/strategy.php" target="_blank" >策略模式</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/facade.php" target="_blank" >门面模式</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/design/di.php" target="_blank" >依赖注入DI和容器</a></br>
+
 
 
