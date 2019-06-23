@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d3cae6-5a72-48f5-b218-0dcfddcb0608" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/go/solveNQueens.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/yhsj.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/lengthOfLIS.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/lengthOfLIS.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yhsj.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/go/solveNQueens.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#14#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,9 +53,10 @@
         <option value="$PROJECT_DIR$/design/facade.php" />
         <option value="$PROJECT_DIR$/design/di.php" />
         <option value="$PROJECT_DIR$/go/lengthOfLIS.go" />
+        <option value="$PROJECT_DIR$/go/solveNQueens.go" />
         <option value="$PROJECT_DIR$/go/test.go" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/go/solveNQueens.go" />
+        <option value="$PROJECT_DIR$/go/yhsj.go" />
       </list>
     </option>
   </component>
@@ -89,11 +77,6 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -121,14 +104,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\algorithm\design" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\github\algorithm\go" />
       <recent name="D:\github\algorithm\design" />
       <recent name="D:\github\algorithm" />
       <recent name="D:\github\algorithm\theory" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\github\algorithm\design" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build solveNQueens.go">
+  <component name="RunManager" selected="Go Build.go build yhsj.go">
     <configuration name="go build solveNQueens.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -160,6 +143,14 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build yhsj.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go/yhsj.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="heapSort.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/algorithm/heapSort.php">
       <method v="2" />
     </configuration>
@@ -168,11 +159,13 @@
       <item itemvalue="Go Build.go build test.go" />
       <item itemvalue="Go Build.go build solveNQueens.go" />
       <item itemvalue="JavaScript Debug.heapSort.php" />
+      <item itemvalue="Go Build.go build yhsj.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build solveNQueens.go" />
+        <item itemvalue="Go Build.go build yhsj.go" />
         <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build solveNQueens.go" />
         <item itemvalue="JavaScript Debug.heapSort.php" />
       </list>
     </recent_temporary>
@@ -196,14 +189,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23793566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37677053" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37677053" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,26 +376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go/test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="55" column="104" selection-start-line="55" selection-start-column="99" selection-end-line="55" selection-end-column="104" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Go/src/math/abs.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -413,11 +385,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/go/solveNQueens.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="171">
+          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/yhsj.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#15#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yhsj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

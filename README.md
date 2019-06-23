@@ -54,6 +54,7 @@
 ### GOLANG实现
 <a href="https://github.com/tiancityycf/algorithm/blob/master/go/lengthOfLIS.go" target="_blank" >最长上升子序列</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/go/solveNQueens.go" target="_blank" >N皇后问题</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/go/yhsj.go" target="_blank" >杨辉三角</a></br>
 
 
 ### 设计模式
