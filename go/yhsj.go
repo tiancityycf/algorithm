@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(result)
 
 }
-
+//解法一
 func generate(numRows int) [][]int {
 	var result [][]int
 	for i:=0;i<numRows;i++{
@@ -36,4 +36,29 @@ func generate(numRows int) [][]int {
 		result = append(result,item)
 	}
 	return result
+}
+//解法二
+func generate2(numRows int) [][]int{
+	var result [][]int
+	for i:=0;i<numRows;i++{
+		result = append(result,getRow(i))
+	}
+	return result
+}
+func getRow(rowIndex int) []int {
+	if rowIndex == 0 {
+		return []int{1}
+	}
+	if rowIndex == 1{
+		return []int{1,1}
+	}
+	temp := getRow(rowIndex-1)
+	lenTemp := len(temp)
+	res := make([]int,lenTemp+1)
+	res[0] = 1
+	res[lenTemp]=1
+	for i := 0; i < lenTemp-1;i++{
+		res[i+1] = temp[i]+temp[i+1]
+	}
+	return res
 }
