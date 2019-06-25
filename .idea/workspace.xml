@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93d3cae6-5a72-48f5-b218-0dcfddcb0608" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/go/reverseList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/isPalindrome.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -21,10 +21,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="275">
-                <caret line="57" column="112" selection-start-line="57" selection-start-column="112" selection-end-line="57" selection-end-column="112" />
+              <first_editor relative-caret-position="247">
+                <caret line="58" column="77" selection-start-line="58" selection-start-column="77" selection-end-line="58" selection-end-column="77" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go/isPalindrome.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="65" column="18" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -68,6 +77,7 @@
         <option value="$PROJECT_DIR$/go/test.go" />
         <option value="$PROJECT_DIR$/go/yhsj.go" />
         <option value="$PROJECT_DIR$/go/reverseList.go" />
+        <option value="$PROJECT_DIR$/go/isPalindrome.go" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -138,7 +148,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build reverseList.go">
+  <component name="RunManager" selected="Go Build.go build isPalindrome.go">
+    <configuration name="go build isPalindrome.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go/isPalindrome.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build reverseList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -171,23 +189,20 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="heapSort.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/algorithm/heapSort.php">
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Go Build.go build test.go" />
       <item itemvalue="Go Build.go build solveNQueens.go" />
       <item itemvalue="Go Build.go build yhsj.go" />
-      <item itemvalue="JavaScript Debug.heapSort.php" />
       <item itemvalue="Go Build.go build reverseList.go" />
+      <item itemvalue="Go Build.go build isPalindrome.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build isPalindrome.go" />
         <item itemvalue="Go Build.go build reverseList.go" />
         <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build yhsj.go" />
         <item itemvalue="Go Build.go build solveNQueens.go" />
-        <item itemvalue="JavaScript Debug.heapSort.php" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +232,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13739377" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34560907" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,11 +458,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3192">
+          <caret line="206" column="12" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Go/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="382" column="6" selection-start-line="382" selection-start-column="5" selection-end-line="382" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/isPalindrome.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="57" column="112" selection-start-line="57" selection-start-column="112" selection-end-line="57" selection-end-column="112" />
+          <first_editor relative-caret-position="247">
+            <caret line="58" column="77" selection-start-line="58" selection-start-column="77" selection-end-line="58" selection-end-column="77" />
           </first_editor>
           <second_editor />
         </state>

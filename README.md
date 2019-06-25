@@ -56,6 +56,7 @@
 <a href="https://github.com/tiancityycf/algorithm/blob/master/go/solveNQueens.go" target="_blank" >N皇后问题</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/go/yhsj.go" target="_blank" >杨辉三角</a></br>
 <a href="https://github.com/tiancityycf/algorithm/blob/master/go/reverseList.go" target="_blank" >反转单链表</a></br>
+<a href="https://github.com/tiancityycf/algorithm/blob/master/go/isPalindrome.go" target="_blank" >验证回文串</a></br>
 
 ### 设计模式
 <a href="https://github.com/tiancityycf/algorithm/blob/master/design/singleton.php" target="_blank" >单例模式</a></br>
