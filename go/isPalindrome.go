@@ -64,11 +64,15 @@ func isValid(v rune) bool {
 
 //解法二
 func isPalindrome2(s string) bool {
+	// FieldsFunc 以一个或多个满足 f(rune) 的字符为分隔符，
+	// 将 s 切分成多个子串，结果中不包含分隔符本身。
+	// 如果 s 中没有满足 f(rune) 的字符，则返回一个空列表。
 	a := strings.FieldsFunc(strings.ToLower(s), func(c rune) bool {
 		//fmt.Println(c)
 		return !unicode.IsLetter(c) && !unicode.IsNumber(c)
 	})
 	fmt.Printf("%T %+v \n", a, a)
+	//Join 将 a 中的子串连接成一个单独的字符串，子串之间用 sep 分隔
 	s2 := strings.Join(a, "")
 	fmt.Printf("%T 值： %s \n", s2, s2)
 
@@ -78,4 +82,15 @@ func isPalindrome2(s string) bool {
 		}
 	}
 	return true
+}
+
+//FieldsFunc 使用例子
+func isSlash(r rune) bool {
+	return r == '\\' || r == '/'
+}
+
+func split() {
+	s := "C:\\Windows\\System32\\FileName"
+	ss := strings.FieldsFunc(s, isSlash)
+	fmt.Printf("%q\n", ss) // ["C:" "Windows" "System32" "FileName"]
 }
